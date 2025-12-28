@@ -1,6 +1,6 @@
 # 1MB AntiFire
 
-**This is a Helper plugin for the fire-damage events we want to have better control over on the 1MoreBlock.com Minecraft 1.17 Java server.**
+**This is a Helper plugin for the fire-damage events we want to have better control over on the 1MoreBlock.com Minecraft 1.21.1 Java server.**
 
 The purpose of this plugin is two-fold:
 
